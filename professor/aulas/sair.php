@@ -1,0 +1,9 @@
+<?php
+	setcookie('profid',"");
+	setcookie('np',"");
+	setcookie('admid',"");
+	setcookie('idseq',"");
+	setcookie('tipo',"");
+	setcookie('idaula',"");
+	header('location:../sair.php');
+?>
